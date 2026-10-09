@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+base: '/PJBL-DKV/'
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
