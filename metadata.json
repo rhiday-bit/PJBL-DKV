@@ -1,0 +1,6 @@
+{
+  "name": "SiPantau PjBL DKV - Monitoring Progres Tugas SMKN 1 Surabaya",
+  "description": "Platform monitoring progres tugas Project-Based Learning DKV SMKN 1 Surabaya untuk Perancangan Lini Produk Merchandise Pariwisata Budaya Jawa Timur dengan sistem kelayakan bertahap, pesan umpan balik langsung, kalender tenggat waktu, dan analitik nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
